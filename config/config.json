@@ -1,0 +1,7 @@
+{
+  "host":"db",
+  "username":"MYSQL_USER",
+  "password":"MYSQL_PASSWORD",
+  "database":"MYSQL_DATABASE",
+  "dbFile":"dbFile.db"
+}
